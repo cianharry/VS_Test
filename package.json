@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cianharry/VS_Test/issues"
   },
-  "homepage": "https://github.com/cianharry/VS_Test#readme"
+  "homepage": "https://github.com/cianharry/VS_Test#readme",
+  "dependencies": {
+    "firebase": "^5.8.6"
+  }
 }
